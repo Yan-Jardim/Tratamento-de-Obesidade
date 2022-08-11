@@ -1,0 +1,356 @@
+* {
+    margin: 0 auto;
+}
+
+body {
+    background: #f3f2f2;
+    width: 100%;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.content{
+    width: 1340px;
+}
+.fundo-0 {
+    display: block;
+}
+
+.fundo-1 {
+    display: flex;
+    width: 600px;
+    height: 500px;
+    margin-bottom: -500px;
+    margin-right: 1px;
+}
+
+.fundo-2 {
+    width: 600px;
+    height: 500px;
+    margin-bottom: -1050px;
+    margin-left: 1px;
+}
+
+.cabecalho {
+    background-color: #f3f2f2;
+    display: flex;
+    align-items: center;
+    width: 1250px;
+    height: 300px;
+}
+
+
+.logo {
+    height: 100px;
+    margin: 50px 50px 150px 80px;
+}
+
+.logo img {
+    width: 240px;
+    height: 200px;
+}
+
+.text {
+    width: 830px;
+    font-size: 14px;
+    margin-right: -150px;
+    line-height: 20px;
+}
+
+.titulo {
+    margin: -40px 0px 0px 0px;
+}
+
+.titulo mark {
+    color: #9a0000;
+    background-color: #eff1f2;
+}
+
+.text h1 {
+    font-size: 26px;
+    padding-top: 10px;
+    padding-bottom: 30px;
+    text-align: center;
+    padding-right: 45px;
+}
+
+.text p {
+    font-size: 16px;
+}
+
+.insCor {
+    color: #9a0000;
+    font-weight: bolder;
+}
+
+.visitantes {
+    margin: 20px -49px 200px 0;
+}
+
+.visitantes img {
+    width: 170px;
+    height: 100px;
+}
+
+.numeros-Visitantes {
+    display: flex;
+    flex-direction: column;
+    margin: -70px 0 40px 0;
+    color: white;
+}
+
+.meio {
+    background-color: #f3f2f2;
+    display: flex;
+    width: 1349px;
+    height: 350px
+}
+
+.box1 {
+    width: 300px;
+}
+
+.box1 img {
+    width: 320px;
+}
+
+.container {
+    display: flex;
+    height: 50px;
+    width: 320px;
+    background-color: #9a0000;
+    color: white;
+    border-radius: 10px 10px 0px 0px;
+}
+
+.container p {
+    margin-top: 10px;
+}
+
+.container2 {
+    background-color: #9a0000;
+    color: white;
+    height: 120px;
+    width: 320px;
+    border-radius: 0px 0px 10px 10px;
+    margin-top: -9px;
+    padding-top: 10px;
+    font-size: 15px;
+
+}
+
+.container2 p {
+    margin-top: 5px;
+    margin-left: 10px;
+}
+
+
+.box2 {
+    width: 300px;
+
+}
+
+.box-numero {
+    font-weight: bolder;
+    font-size: 20px;
+}
+
+.agendamento {
+    display: flex;
+    margin: 10px 27px 0px 27px;
+}
+
+.agendamento h2 {
+    color: #333367;
+    text-align: center;
+}
+
+.email {
+    display: flex;
+    flex-direction: column;
+    margin-top: 50px;
+}
+
+.gratuita {
+    display: flex;
+    margin-top: 50px;
+}
+
+.gratuita h3 {
+    color: #333367;
+    padding-right: 50px;
+}
+
+.plano {
+    background-color: #333367;
+    display: flex;
+    flex-direction: column;
+    margin-top: 30px;
+    height: 100px;
+    color: white;
+    border-radius: 10px;
+}
+
+.plano p {
+    padding: 15px;
+    font-size: 20px;
+}
+
+.plano h3 {
+    font-size: 30px;
+}
+
+.box3 {
+    width: 300px;
+}
+
+.box3 img {
+    width: 320px;
+}
+
+.container12 {
+    display: flex;
+    height: 50px;
+    width: 320px;
+    background-color: #9a0000;
+    color: white;
+    border-radius: 10px 10px 0px 0px;
+}
+
+.container12 p {
+    margin-top: 10px;
+}
+
+.container22 {
+    width: 320px;
+    background-color: #9a0000;
+    color: white;
+    height: 120px;
+    border-radius: 0px 0px 10px 10px;
+    margin-top: -7px;
+    padding-top: 10px;
+    font-size: 15px;
+
+}
+
+.container22 p {
+    margin-top: 3px;
+    margin-left: 10px;
+}
+
+.rodape {
+    background-color: #f3f2f2;
+    display: flex;
+    width: 1349px;
+    height: 400px;
+}
+
+.locais {
+    display: flex;
+    flex-direction: column;
+    background-color: #cccccc;
+    width: 500px;
+    height: 250px;
+    margin-top: 100px;
+}
+
+.r1 {
+    width: 300px;
+    height: 30px;
+    margin-top: 10px;
+    margin-left: 10px;
+}
+
+.r1 h3 {
+    margin-top: -25px;
+    margin-left: 20px;
+    color: #9a0000;
+    padding-left: 5px;
+}
+
+.r2 {
+    width: 250px;
+    height: 150px;
+    margin-left: 10px;
+    padding: 10px 0px 0px 20px
+}
+
+.r3 {
+    width: 200px;
+    height: 50px;
+    margin-top: -130px;
+    margin-right: 0px;
+}
+
+.r4 {
+    width: 250px;
+    height: 40px;
+    margin-top: 70px;
+    margin-left: 10px;
+    padding: 10px 0px 0px 20px;
+    font-weight: bolder;
+}
+
+.contato {
+    display: flex;
+    flex-direction: column;
+    background-color: #ccc;
+    width: 500px;
+    height: 250px;
+    margin-top: 100px;
+}
+
+.r1 {
+    width: 300px;
+    height: 30px;
+    margin-top: 10px;
+    margin-left: 10px;
+}
+
+.r1 h3 {
+    margin-top: -25px;
+    margin-left: 20px;
+    color: #9a0000;
+}
+
+.contato h3 {
+    margin: -25px 0px 0px 20px;
+}
+
+.contato label {
+    margin-left: 10px;
+    margin-top: 20px;
+}
+
+.input-padrao {
+    margin-left: 10px;
+    border-radius: 5px;
+    border: solid 1px;
+
+}
+
+.caixa {
+    display: flex;
+    flex-direction: column;
+    margin-top: -180px;
+    margin-right: 50px;
+}
+
+.enviar {
+    background: #9a0000;
+    border-radius: 5px;
+    margin-top: 10px;
+    margin-right: 0px;
+    color: white;
+}
+
+.copy {
+    display: flex;
+    align-items: center;
+    background-color: #9a0000;
+    width: 1349px;
+    height: 40px;
+}
+
+.copy p {
+    text-align: center;
+    color: white;
+}
